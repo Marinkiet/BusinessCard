@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+<h1>Business Card</h1>
+<h3>Link: https://marinkiet.github.io/BusinessCard/ </h3>
+<img src="https://user-images.githubusercontent.com/69327534/174407621-f37ac0b9-5df8-4097-97b2-f388fc5b3f84.png"></img>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
