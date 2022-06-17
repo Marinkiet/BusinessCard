@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1da22763.css",
-    "main.js": "/static/js/main.563c6422.js",
-    "static/js/787.bc412fff.chunk.js": "/static/js/787.bc412fff.chunk.js",
-    "static/media/pp.PNG": "/static/media/pp.538adc4ab9fc9d2c743a.PNG",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.1da22763.css.map": "/static/css/main.1da22763.css.map",
-    "main.563c6422.js.map": "/static/js/main.563c6422.js.map",
-    "787.bc412fff.chunk.js.map": "/static/js/787.bc412fff.chunk.js.map"
+    "main.css": "/BusinessCard/static/css/main.1da22763.css",
+    "main.js": "/BusinessCard/static/js/main.3d1027d4.js",
+    "static/js/787.bc412fff.chunk.js": "/BusinessCard/static/js/787.bc412fff.chunk.js",
+    "static/media/pp.PNG": "/BusinessCard/static/media/pp.538adc4ab9fc9d2c743a.PNG",
+    "static/media/logo.svg": "/BusinessCard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BusinessCard/index.html",
+    "main.1da22763.css.map": "/BusinessCard/static/css/main.1da22763.css.map",
+    "main.3d1027d4.js.map": "/BusinessCard/static/js/main.3d1027d4.js.map",
+    "787.bc412fff.chunk.js.map": "/BusinessCard/static/js/787.bc412fff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1da22763.css",
-    "static/js/main.563c6422.js"
+    "static/js/main.3d1027d4.js"
   ]
 }
